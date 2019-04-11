@@ -1,0 +1,11 @@
+.starwars {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.dataBox {
+    margin: 20px;
+    padding: 10px;
+    border: solid 2px;
+}
